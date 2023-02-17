@@ -36,4 +36,4 @@
 
 
 [instagram]: https://www.instagram.com/kirenci_furkan/
-[linkedin]: https://www.linkedin.com/in/furkan-kirenci-912668245/
+[linkedin]: https://www.linkedin.com/in/furkankirenci/
